@@ -15,11 +15,11 @@ Cars 구조체를 입력받고 `struct_cars.txt`, `string_cars.txt` 파일을 �
 ### 결과
 - argument가 없을 시 argument 요청
 
-    <img src="./images/pic1_no arg.png" width="400"/>
+    <img src="./images/pic1_no arg.png" width="300"/>
 
 - ex. argument에 2 입력 시 결과
 
-    <img src="./images/pic1_arg 2.png" width="600"/>
+    <img src="./images/pic2_arg 2.png" width="500"/>
 
 
 ## 1번 심화
