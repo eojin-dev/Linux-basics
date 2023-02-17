@@ -19,7 +19,7 @@ Cars 구조체를 입력받고 `struct_cars.txt`, `string_cars.txt` 파일을 �
 
 - ex. argument에 2 입력 시 결과
 
-    <img src="./images/pic2_arg 2.png" width="500"/>
+    <img src="./images/pic2_input arg 2.png" width="500"/>
 
 
 ## 1번 심화
