@@ -1,4 +1,4 @@
-# 하계 SW 역량 강화 리눅스 시험
+# SW 역량 강화 Fianl Linux Test
 
 ## 문제 설명
 Cars 구조체를 입력받고 `struct_cars.txt`, `string_cars.txt` 파일을 입력하는 프로그램을 작성하시오.
